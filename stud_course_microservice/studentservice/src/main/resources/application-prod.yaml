@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: false
+
+  web:
+    error:
+      include-stacktrace: never
