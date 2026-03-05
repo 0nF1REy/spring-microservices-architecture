@@ -1,10 +1,14 @@
-# Spring Microservices Architecture
+<p align="center">
+    <img src="./resources/images/docs/logotype/spring-microservices.png" width="350" alt="Logotipo — Spring Microservices" />
+</p>
 
-# Student | Course
+<div align="center">
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2026?style=for-the-badge)
 ![License MIT](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 ![Status: Completed](https://img.shields.io/badge/status-completed-brightgreen?style=for-the-badge)
+
+</div>
 
 ## 🧭 Guia de Navegação (Índice)
 
@@ -22,6 +26,8 @@
 - **[📌 Observações importantes](#observações-importantes)**
 - **[👤 Sobre o Desenvolvedor](#sobre-o-desenvolvedor)**
 - **[📜 Licença](#licenca)**
+
+## Student | Course
 
 ## 📖 Descrição <a name="descricao"></a>
 
